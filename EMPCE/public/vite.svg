@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256" height="256" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .acc { fill: #004B8D; } /* Accent blue */
+      .stroke { stroke: #004B8D; stroke-width: 6; stroke-linecap: round; }
+    </style>
+  </defs>
+  <rect x="8" y="8" width="112" height="112" rx="20" ry="20" fill="none" class="stroke"/>
+  <g class="acc">
+    <rect x="36" y="40" width="56" height="8" rx="4"/>
+    <rect x="36" y="60" width="42" height="8" rx="4"/>
+    <rect x="36" y="80" width="56" height="8" rx="4"/>
+  </g>
+</svg>
